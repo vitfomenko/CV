@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1200px;
+}
+
+.wrapper {
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 100vh;
+}
+
+.head {
+    padding-left: 75px;
+}
+
+h1 {
+    margin: 7px;
+}
+
+img {
+    widows: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.sidebar {
+    color: white;
+    width: 300px;
+    background-color: rgb(41, 41, 145);
+}
+
+.sidebar-mainText {
+    text-transform: uppercase;
+    margin: 5px;
+    text-align: center;
+}
+
+.sidebar-vacancy {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar h3 {
+    color: rgb(231, 78, 17);
+    margin: 3px;
+}
+
+.sidebar-information {
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+.list-item, 
+.list-names, 
+.main-list-item {
+    list-style-type: none;
+}
+
+.list-item:before {
+    content: "•";
+    color: rgb(231, 78, 17);
+    margin-right: 5px;
+}
+
+
+span {
+    margin-right: 10px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: rgb(231, 78, 17);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    padding-top: 5px;
+}
+
+.main-section {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.main {
+    max-width: 600px;
+}
+
+.main-headers {
+    text-transform: uppercase;
+}
+
+.contacts-name {
+    color: rgb(231, 78, 17)
+}
