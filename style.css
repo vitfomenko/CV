@@ -44,7 +44,7 @@ img {
 }
 
 .sidebar h3 {
-    color: rgb(231, 78, 17);
+    color: rgb(219, 116, 76);
     margin: 3px;
 }
 
@@ -61,7 +61,7 @@ img {
 
 .list-item:before {
     content: "•";
-    color: rgb(231, 78, 17);
+    color: rgb(219, 116, 76);
     margin-right: 5px;
 }
 
@@ -70,7 +70,7 @@ span {
     margin-right: 10px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: rgb(231, 78, 17);
+    color: rgb(219, 116, 76);
 }
 
 a {
@@ -96,5 +96,5 @@ li {
 }
 
 .contacts-name {
-    color: rgb(231, 78, 17)
+    color: rgb(219, 116, 76);
 }
